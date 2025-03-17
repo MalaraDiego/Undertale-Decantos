@@ -8,7 +8,7 @@ namespace Undertale
 {
     public class Clover : Personaggio
     {
-        private int colpi;
+        private int colpi=0;
 
         public int GetColpi()
         {
@@ -24,6 +24,7 @@ namespace Undertale
             if (colpi > 0)
             {
                 return 6;
+                colpi--;
             }
             else
             {

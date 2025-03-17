@@ -30,3 +30,20 @@ C:\Users\IL MIO PC\Desktop\Undertale\obj\Debug\net8.0-windows\refint\Undertale.d
 C:\Users\IL MIO PC\Desktop\Undertale\obj\Debug\net8.0-windows\Undertale.pdb
 C:\Users\IL MIO PC\Desktop\Undertale\obj\Debug\net8.0-windows\Undertale.genruntimeconfig.cache
 C:\Users\IL MIO PC\Desktop\Undertale\obj\Debug\net8.0-windows\ref\Undertale.dll
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\bin\Debug\net8.0-windows\Undertale.exe
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\bin\Debug\net8.0-windows\Undertale.deps.json
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\bin\Debug\net8.0-windows\Undertale.runtimeconfig.json
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\bin\Debug\net8.0-windows\Undertale.dll
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\bin\Debug\net8.0-windows\Undertale.pdb
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.Form1.resources
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.csproj.GenerateResource.cache
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.AssemblyInfoInputs.cache
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.AssemblyInfo.cs
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.csproj.CoreCompileInputs.cache
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.sourcelink.json
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.dll
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\refint\Undertale.dll
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.pdb
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\Undertale.genruntimeconfig.cache
+C:\Users\IL MIO PC\Desktop\repo undertale\Undertale\obj\Debug\net8.0-windows\ref\Undertale.dll
