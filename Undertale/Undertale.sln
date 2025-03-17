@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undertale", "Undertale.csproj", "{EC84C5CB-1E09-4C7D-87A7-1E04CE6E39B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC84C5CB-1E09-4C7D-87A7-1E04CE6E39B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC84C5CB-1E09-4C7D-87A7-1E04CE6E39B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC84C5CB-1E09-4C7D-87A7-1E04CE6E39B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC84C5CB-1E09-4C7D-87A7-1E04CE6E39B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5F67E6-8F78-4BA6-AA74-9980AA7403D7}
+	EndGlobalSection
+EndGlobal
